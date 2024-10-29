@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Prob1_PR_MJ/1.0.0": {
+        "runtime": {
+          "Prob1_PR_MJ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prob1_PR_MJ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
