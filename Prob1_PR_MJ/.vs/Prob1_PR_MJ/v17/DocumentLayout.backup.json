@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\weiss\\Desktop\\Repositorios\\Parcial2DS_PR_MJ\\Parcial_2_DSVIII\\Prob1_PR_MJ\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{16AE951F-3396-4D9C-B862-EF2973BD67A0}|Prob1_PR_MJ.vbproj|c:\\users\\weiss\\desktop\\repositorios\\parcial2ds_pr_mj\\parcial_2_dsviii\\prob1_pr_mj\\frmcreditos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{16AE951F-3396-4D9C-B862-EF2973BD67A0}|Prob1_PR_MJ.vbproj|solutionrelative:frmcreditos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AE951F-3396-4D9C-B862-EF2973BD67A0}|Prob1_PR_MJ.vbproj|c:\\users\\weiss\\desktop\\repositorios\\parcial2ds_pr_mj\\parcial_2_dsviii\\prob1_pr_mj\\frmdatos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{16AE951F-3396-4D9C-B862-EF2973BD67A0}|Prob1_PR_MJ.vbproj|solutionrelative:frmdatos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AE951F-3396-4D9C-B862-EF2973BD67A0}|Prob1_PR_MJ.vbproj|c:\\users\\weiss\\desktop\\repositorios\\parcial2ds_pr_mj\\parcial_2_dsviii\\prob1_pr_mj\\frmdatos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{16AE951F-3396-4D9C-B862-EF2973BD67A0}|Prob1_PR_MJ.vbproj|solutionrelative:frmdatos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AE951F-3396-4D9C-B862-EF2973BD67A0}|Prob1_PR_MJ.vbproj|c:\\users\\weiss\\desktop\\repositorios\\parcial2ds_pr_mj\\parcial_2_dsviii\\prob1_pr_mj\\frmcreditos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{16AE951F-3396-4D9C-B862-EF2973BD67A0}|Prob1_PR_MJ.vbproj|solutionrelative:frmcreditos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AE951F-3396-4D9C-B862-EF2973BD67A0}|Prob1_PR_MJ.vbproj|c:\\users\\weiss\\desktop\\repositorios\\parcial2ds_pr_mj\\parcial_2_dsviii\\prob1_pr_mj\\frmfacturar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{16AE951F-3396-4D9C-B862-EF2973BD67A0}|Prob1_PR_MJ.vbproj|solutionrelative:frmfacturar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{16AE951F-3396-4D9C-B862-EF2973BD67A0}|Prob1_PR_MJ.vbproj|c:\\users\\weiss\\desktop\\repositorios\\parcial2ds_pr_mj\\parcial_2_dsviii\\prob1_pr_mj\\frmfacturar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{16AE951F-3396-4D9C-B862-EF2973BD67A0}|Prob1_PR_MJ.vbproj|solutionrelative:frmfacturar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
@@ -13,26 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{16AE951F-3396-4D9C-B862-EF2973BD67A0}|Prob1_PR_MJ.vbproj|c:\\users\\weiss\\desktop\\repositorios\\parcial2ds_pr_mj\\parcial_2_dsviii\\prob1_pr_mj\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{16AE951F-3396-4D9C-B862-EF2973BD67A0}|Prob1_PR_MJ.vbproj|solutionrelative:frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16AE951F-3396-4D9C-B862-EF2973BD67A0}|Prob1_PR_MJ.vbproj|c:\\users\\weiss\\desktop\\repositorios\\parcial2ds_pr_mj\\parcial_2_dsviii\\prob1_pr_mj\\frmfacturar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{16AE951F-3396-4D9C-B862-EF2973BD67A0}|Prob1_PR_MJ.vbproj|solutionrelative:frmfacturar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16AE951F-3396-4D9C-B862-EF2973BD67A0}|Prob1_PR_MJ.vbproj|c:\\users\\weiss\\desktop\\repositorios\\parcial2ds_pr_mj\\parcial_2_dsviii\\prob1_pr_mj\\frmdatos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{16AE951F-3396-4D9C-B862-EF2973BD67A0}|Prob1_PR_MJ.vbproj|solutionrelative:frmdatos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16AE951F-3396-4D9C-B862-EF2973BD67A0}|Prob1_PR_MJ.vbproj|c:\\users\\weiss\\desktop\\repositorios\\parcial2ds_pr_mj\\parcial_2_dsviii\\prob1_pr_mj\\frmdatos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{16AE951F-3396-4D9C-B862-EF2973BD67A0}|Prob1_PR_MJ.vbproj|solutionrelative:frmdatos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16AE951F-3396-4D9C-B862-EF2973BD67A0}|Prob1_PR_MJ.vbproj|c:\\users\\weiss\\desktop\\repositorios\\parcial2ds_pr_mj\\parcial_2_dsviii\\prob1_pr_mj\\frmcreditos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{16AE951F-3396-4D9C-B862-EF2973BD67A0}|Prob1_PR_MJ.vbproj|solutionrelative:frmcreditos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16AE951F-3396-4D9C-B862-EF2973BD67A0}|Prob1_PR_MJ.vbproj|c:\\users\\weiss\\desktop\\repositorios\\parcial2ds_pr_mj\\parcial_2_dsviii\\prob1_pr_mj\\frmcreditos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{16AE951F-3396-4D9C-B862-EF2973BD67A0}|Prob1_PR_MJ.vbproj|solutionrelative:frmcreditos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "frmMain.vb",
               "DocumentMoniker": "C:\\Users\\weiss\\Desktop\\Repositorios\\Parcial2DS_PR_MJ\\Parcial_2_DSVIII\\Prob1_PR_MJ\\frmMain.vb",
               "RelativeDocumentMoniker": "frmMain.vb",
@@ -59,20 +59,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "frmFacturar.vb",
               "DocumentMoniker": "C:\\Users\\weiss\\Desktop\\Repositorios\\Parcial2DS_PR_MJ\\Parcial_2_DSVIII\\Prob1_PR_MJ\\frmFacturar.vb",
               "RelativeDocumentMoniker": "frmFacturar.vb",
               "ToolTip": "C:\\Users\\weiss\\Desktop\\Repositorios\\Parcial2DS_PR_MJ\\Parcial_2_DSVIII\\Prob1_PR_MJ\\frmFacturar.vb",
               "RelativeToolTip": "frmFacturar.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-10-29T14:39:49.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "frmFacturar.vb [Design]",
               "DocumentMoniker": "C:\\Users\\weiss\\Desktop\\Repositorios\\Parcial2DS_PR_MJ\\Parcial_2_DSVIII\\Prob1_PR_MJ\\frmFacturar.vb",
               "RelativeDocumentMoniker": "frmFacturar.vb",
@@ -84,20 +84,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "frmDatos.vb",
               "DocumentMoniker": "C:\\Users\\weiss\\Desktop\\Repositorios\\Parcial2DS_PR_MJ\\Parcial_2_DSVIII\\Prob1_PR_MJ\\frmDatos.vb",
               "RelativeDocumentMoniker": "frmDatos.vb",
               "ToolTip": "C:\\Users\\weiss\\Desktop\\Repositorios\\Parcial2DS_PR_MJ\\Parcial_2_DSVIII\\Prob1_PR_MJ\\frmDatos.vb",
               "RelativeToolTip": "frmDatos.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-10-29T14:19:41.231Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "frmDatos.vb [Design]",
               "DocumentMoniker": "C:\\Users\\weiss\\Desktop\\Repositorios\\Parcial2DS_PR_MJ\\Parcial_2_DSVIII\\Prob1_PR_MJ\\frmDatos.vb",
               "RelativeDocumentMoniker": "frmDatos.vb",
@@ -109,19 +109,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "frmCreditos.vb",
               "DocumentMoniker": "C:\\Users\\weiss\\Desktop\\Repositorios\\Parcial2DS_PR_MJ\\Parcial_2_DSVIII\\Prob1_PR_MJ\\frmCreditos.vb",
               "RelativeDocumentMoniker": "frmCreditos.vb",
               "ToolTip": "C:\\Users\\weiss\\Desktop\\Repositorios\\Parcial2DS_PR_MJ\\Parcial_2_DSVIII\\Prob1_PR_MJ\\frmCreditos.vb",
               "RelativeToolTip": "frmCreditos.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-10-29T13:18:45.983Z"
+              "WhenOpened": "2024-10-29T13:18:45.983Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "frmCreditos.vb [Design]",
               "DocumentMoniker": "C:\\Users\\weiss\\Desktop\\Repositorios\\Parcial2DS_PR_MJ\\Parcial_2_DSVIII\\Prob1_PR_MJ\\frmCreditos.vb",
               "RelativeDocumentMoniker": "frmCreditos.vb",
@@ -133,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "frmMain.vb [Design]",
               "DocumentMoniker": "C:\\Users\\weiss\\Desktop\\Repositorios\\Parcial2DS_PR_MJ\\Parcial_2_DSVIII\\Prob1_PR_MJ\\frmMain.vb",
               "RelativeDocumentMoniker": "frmMain.vb",

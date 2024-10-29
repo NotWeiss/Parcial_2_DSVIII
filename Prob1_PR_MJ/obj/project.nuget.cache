@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0MhLpuVZfEk=",
+  "dgSpecHash": "eYPltr0D6hY=",
   "success": true,
   "projectFilePath": "C:\\Users\\weiss\\Desktop\\Repositorios\\Parcial2DS_PR_MJ\\Parcial_2_DSVIII\\Prob1_PR_MJ\\Prob1_PR_MJ.vbproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\weiss\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
-    "C:\\Users\\weiss\\.nuget\\packages\\mysqlconnector\\2.3.7\\mysqlconnector.2.3.7.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
