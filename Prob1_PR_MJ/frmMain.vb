@@ -7,17 +7,28 @@ Public Class frmMain
             ' Define la direccion del directorio donde se ejecuta la aplicacion
             ' y la direccion del archivo donde guardamos los datos.
             Dim projectDirectory As String = Directory.GetParent(Application.StartupPath).Parent.Parent.FullName
-            Dim filePath As String = Path.Combine(projectDirectory, "data.csv")
+            Dim dataPath As String = Path.Combine(projectDirectory, "data.csv")
+            Dim precioPath As String = Path.Combine(projectDirectory, "precio.csv")
 
             'Verifica si el archivo "data.csv" ya existe'
-            Dim fileExist As Boolean = File.Exists(filePath)
+            Dim dataExists As Boolean = File.Exists(dataPath)
+            Dim precioExists As Boolean = File.Exists(precioPath)
 
             'Crea el archivo "data.csv" si no existe'
-            If Not fileExist Then
-                Using writer As StreamWriter = New StreamWriter(filePath)
+            If Not dataExists Then
+                Using writer As StreamWriter = New StreamWriter(dataPath)
                     writer.WriteLine("ID, Nombre, Cedula, Dia, Modelo")
                 End Using
             End If
+
+            'Crea el archivo "precio.csv" si no existe'
+            If Not precioExists Then
+                Using writer As StreamWriter = New StreamWriter(precioPath)
+                    writer.WriteLine("ID, Modelo, Precio")
+                End Using
+            End If
+
+
         Catch ex As Exception
             MessageBox.Show("Error al crear el documento", "ERROR", MessageBoxButtons.OK)
         End Try

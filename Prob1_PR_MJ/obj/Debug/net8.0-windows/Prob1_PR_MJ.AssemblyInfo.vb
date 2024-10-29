@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Prob1_PR_MJ"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61035999371fcc27012f55a4a5789fdc8c366992"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecec972d35ada013583df55b20fda7740ce46afa"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Prob1_PR_MJ"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Prob1_PR_MJ"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
