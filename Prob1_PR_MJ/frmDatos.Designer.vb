@@ -23,9 +23,9 @@ Partial Class frmDatos
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         btnRegresar = New Button()
-        TextBox1 = New TextBox()
-        TextBox2 = New TextBox()
-        TextBox3 = New TextBox()
+        txtPrecioMX1 = New TextBox()
+        txtPrecioMX2 = New TextBox()
+        txtPrecioMX3 = New TextBox()
         Label1 = New Label()
         Label2 = New Label()
         Label3 = New Label()
@@ -35,6 +35,7 @@ Partial Class frmDatos
         ComboBox1 = New ComboBox()
         btnCargar = New Button()
         lblDia = New Label()
+        btnActualizar = New Button()
         CType(DataGridView1, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
@@ -47,31 +48,31 @@ Partial Class frmDatos
         btnRegresar.Text = "Regresar"
         btnRegresar.UseVisualStyleBackColor = True
         ' 
-        ' TextBox1
+        ' txtPrecioMX1
         ' 
-        TextBox1.Location = New Point(37, 71)
-        TextBox1.Name = "TextBox1"
-        TextBox1.Size = New Size(100, 23)
-        TextBox1.TabIndex = 1
+        txtPrecioMX1.Location = New Point(37, 57)
+        txtPrecioMX1.Name = "txtPrecioMX1"
+        txtPrecioMX1.Size = New Size(100, 23)
+        txtPrecioMX1.TabIndex = 1
         ' 
-        ' TextBox2
+        ' txtPrecioMX2
         ' 
-        TextBox2.Location = New Point(188, 71)
-        TextBox2.Name = "TextBox2"
-        TextBox2.Size = New Size(100, 23)
-        TextBox2.TabIndex = 2
+        txtPrecioMX2.Location = New Point(188, 57)
+        txtPrecioMX2.Name = "txtPrecioMX2"
+        txtPrecioMX2.Size = New Size(100, 23)
+        txtPrecioMX2.TabIndex = 2
         ' 
-        ' TextBox3
+        ' txtPrecioMX3
         ' 
-        TextBox3.Location = New Point(339, 71)
-        TextBox3.Name = "TextBox3"
-        TextBox3.Size = New Size(100, 23)
-        TextBox3.TabIndex = 3
+        txtPrecioMX3.Location = New Point(339, 57)
+        txtPrecioMX3.Name = "txtPrecioMX3"
+        txtPrecioMX3.Size = New Size(100, 23)
+        txtPrecioMX3.TabIndex = 3
         ' 
         ' Label1
         ' 
         Label1.AutoSize = True
-        Label1.Location = New Point(70, 53)
+        Label1.Location = New Point(70, 39)
         Label1.Name = "Label1"
         Label1.Size = New Size(31, 15)
         Label1.TabIndex = 4
@@ -80,7 +81,7 @@ Partial Class frmDatos
         ' Label2
         ' 
         Label2.AutoSize = True
-        Label2.Location = New Point(223, 53)
+        Label2.Location = New Point(223, 39)
         Label2.Name = "Label2"
         Label2.Size = New Size(31, 15)
         Label2.TabIndex = 5
@@ -89,7 +90,7 @@ Partial Class frmDatos
         ' Label3
         ' 
         Label3.AutoSize = True
-        Label3.Location = New Point(374, 53)
+        Label3.Location = New Point(374, 39)
         Label3.Name = "Label3"
         Label3.Size = New Size(31, 15)
         Label3.TabIndex = 6
@@ -106,7 +107,7 @@ Partial Class frmDatos
         ' lblPrecios
         ' 
         lblPrecios.AutoSize = True
-        lblPrecios.Location = New Point(216, 21)
+        lblPrecios.Location = New Point(216, 12)
         lblPrecios.Name = "lblPrecios"
         lblPrecios.Size = New Size(45, 15)
         lblPrecios.TabIndex = 8
@@ -148,11 +149,21 @@ Partial Class frmDatos
         lblDia.TabIndex = 12
         lblDia.Text = "Dia de la Semana"
         ' 
+        ' btnActualizar
+        ' 
+        btnActualizar.Location = New Point(175, 86)
+        btnActualizar.Name = "btnActualizar"
+        btnActualizar.Size = New Size(130, 23)
+        btnActualizar.TabIndex = 13
+        btnActualizar.Text = "Actualizar Precios"
+        btnActualizar.UseVisualStyleBackColor = True
+        ' 
         ' frmDatos
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(477, 450)
+        Controls.Add(btnActualizar)
         Controls.Add(lblDia)
         Controls.Add(btnCargar)
         Controls.Add(ComboBox1)
@@ -162,9 +173,9 @@ Partial Class frmDatos
         Controls.Add(Label3)
         Controls.Add(Label2)
         Controls.Add(Label1)
-        Controls.Add(TextBox3)
-        Controls.Add(TextBox2)
-        Controls.Add(TextBox1)
+        Controls.Add(txtPrecioMX3)
+        Controls.Add(txtPrecioMX2)
+        Controls.Add(txtPrecioMX1)
         Controls.Add(btnRegresar)
         Name = "frmDatos"
         Text = "frmDatos"
@@ -174,9 +185,9 @@ Partial Class frmDatos
     End Sub
 
     Friend WithEvents btnRegresar As Button
-    Friend WithEvents TextBox1 As TextBox
-    Friend WithEvents TextBox2 As TextBox
-    Friend WithEvents TextBox3 As TextBox
+    Friend WithEvents txtPrecioMX1 As TextBox
+    Friend WithEvents txtPrecioMX2 As TextBox
+    Friend WithEvents txtPrecioMX3 As TextBox
     Friend WithEvents Label1 As Label
     Friend WithEvents Label2 As Label
     Friend WithEvents Label3 As Label
@@ -186,4 +197,5 @@ Partial Class frmDatos
     Friend WithEvents ComboBox1 As ComboBox
     Friend WithEvents btnCargar As Button
     Friend WithEvents lblDia As Label
+    Friend WithEvents btnActualizar As Button
 End Class

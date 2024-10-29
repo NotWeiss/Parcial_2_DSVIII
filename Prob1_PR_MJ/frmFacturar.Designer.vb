@@ -27,7 +27,7 @@ Partial Class frmFacturar
         txtCedula = New TextBox()
         cboDia = New ComboBox()
         grbModelo = New GroupBox()
-        rad = New RadioButton()
+        radMX3 = New RadioButton()
         radMX2 = New RadioButton()
         radMX1 = New RadioButton()
         Label1 = New Label()
@@ -71,7 +71,7 @@ Partial Class frmFacturar
         ' 
         ' grbModelo
         ' 
-        grbModelo.Controls.Add(rad)
+        grbModelo.Controls.Add(radMX3)
         grbModelo.Controls.Add(radMX2)
         grbModelo.Controls.Add(radMX1)
         grbModelo.Location = New Point(150, 270)
@@ -81,16 +81,16 @@ Partial Class frmFacturar
         grbModelo.TabStop = False
         grbModelo.Text = "Modelo"
         ' 
-        ' rad
+        ' radMX3
         ' 
-        rad.AutoSize = True
-        rad.Location = New Point(51, 72)
-        rad.Name = "rad"
-        rad.Size = New Size(49, 19)
-        rad.TabIndex = 2
-        rad.TabStop = True
-        rad.Text = "MX3"
-        rad.UseVisualStyleBackColor = True
+        radMX3.AutoSize = True
+        radMX3.Location = New Point(51, 72)
+        radMX3.Name = "radMX3"
+        radMX3.Size = New Size(49, 19)
+        radMX3.TabIndex = 2
+        radMX3.TabStop = True
+        radMX3.Text = "MX3"
+        radMX3.UseVisualStyleBackColor = True
         ' 
         ' radMX2
         ' 
@@ -178,7 +178,7 @@ Partial Class frmFacturar
     Friend WithEvents txtCedula As TextBox
     Friend WithEvents cboDia As ComboBox
     Friend WithEvents grbModelo As GroupBox
-    Friend WithEvents rad As RadioButton
+    Friend WithEvents radMX3 As RadioButton
     Friend WithEvents radMX2 As RadioButton
     Friend WithEvents radMX1 As RadioButton
     Friend WithEvents Label1 As Label
